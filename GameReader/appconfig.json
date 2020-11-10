@@ -1,0 +1,6 @@
+{
+  //数据库路径
+  "SQLite": "Data source=xiaoji.db",
+  //游戏保存路径
+  "SavePath": "F:\\Download"
+}
